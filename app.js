@@ -6,3 +6,4 @@ let person = {
 let { name, surname, currentAge: age = 20 } = person;
 
 console.log(age);
+// this is new
