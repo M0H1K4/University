@@ -13,6 +13,6 @@ int main()
     std::cout << "You are " << age << " years old and your favorite number is " << favoriteNumber << std::endl;
     
     std::cout << "Hello, this is my new world in C++ world";
-    // hello world
+    // hello world .... .. ... ...
     return 0;
 }
